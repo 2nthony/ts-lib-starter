@@ -1,15 +1,15 @@
-**💛 You can help the author become a full-time open-source maintainer by [sponsoring him on GitHub](https://github.com/sponsors/egoist).**
+**💛 You can help the author become a full-time open-source maintainer by [sponsoring him on GitHub](https://github.com/sponsors/2nthony).**
 
 ---
 
 # my-ts-lib
 
-[![npm version](https://badgen.net/npm/v/my-ts-lib)](https://npm.im/my-ts-lib) [![npm downloads](https://badgen.net/npm/dm/my-ts-lib)](https://npm.im/my-ts-lib)
+[![version](https://img.shields.io/npm/v/my-ts-lib?label=&color=29BC9B)](https://npm.im/my-ts-lib) [![downloads](https://img.shields.io/npm/dm/my-ts-lib?label=&color=29BC9B)](https://npm.im/my-ts-lib)
 
 ## Using this template
 
 - Search `my-ts-lib` and replace it with your custom package name.
-- Search `egoist` and replace it with your name.
+- Search `2nthony` and replace it with your name.
 
 Features:
 
@@ -28,8 +28,8 @@ npm i my-ts-lib
 
 ## Sponsors
 
-[![sponsors](https://sponsors-images.egoist.sh/sponsors.svg)](https://github.com/sponsors/egoist)
+[![sponsors](https://cdn.jsdelivr.net/gh/2nthony/sponsors-image/sponsors.svg)](https://github.com/sponsors/2nthony)
 
 ## License
 
-MIT &copy; [EGOIST](https://github.com/sponsors/egoist)
+MIT &copy; [2nthony](https://github.com/sponsors/2nthony)

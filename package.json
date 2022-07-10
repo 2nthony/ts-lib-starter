@@ -3,6 +3,8 @@
   "version": "0.0.0",
   "funding": "https://github.com/sponsors/2nthony",
   "description": "My awesome typescript library",
+  "author": "2nthony",
+  "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
