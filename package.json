@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "funding": "https://github.com/sponsors/2nthony",
   "description": "My awesome typescript library",
+  "repository": "https://github.com/2nthony/my-ts-lib",
   "author": "2nthony",
   "license": "MIT",
   "publishConfig": {
