@@ -20,7 +20,9 @@ Features:
 
 To skip CI (GitHub action), add `skip-ci` to commit message. To skip release, add `skip-release` to commit message.
 
-## Install
+## Usage
+
+### Install
 
 ```bash
 npm i my-ts-lib
